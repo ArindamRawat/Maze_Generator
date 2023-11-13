@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\rawat\source\repos\Exapmle_Pro_03\Exapmle_Pro_03\olcConsoleGameEngine.h(759,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rawat\source\repos\Exapmle_Pro_03\Exapmle_Pro_03\olcConsoleGameEngine.h(1099,31): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\rawat\source\repos\Exapmle_Pro_03\Exapmle_Pro_03\olcConsoleGameEngine.h(1196,4): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+C:\Users\rawat\source\repos\Exapmle_Pro_03\Exapmle_Pro_03\Source.cpp(100,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Exapmle_Pro_03.vcxproj -> C:\Users\rawat\source\repos\Exapmle_Pro_03\x64\Debug\Exapmle_Pro_03.exe
